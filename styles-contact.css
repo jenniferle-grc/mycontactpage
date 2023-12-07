@@ -120,14 +120,14 @@ html, body {
 }
 
 h1 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 2em;
     margin: 25px auto 10px auto;
     color: #000000;
 }
 
 h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 1.5em;
     line-height: 1.4;
     color: #4d4d4d;
@@ -143,7 +143,7 @@ p {
 	letter-spacing: .2em; 
 }
 nav{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-size: 1.2em;
 	width: 80%; /* This is for responsiveness */
 	margin: 0 auto; /* This centers the entire nav element inside the center div */
